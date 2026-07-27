@@ -62,3 +62,21 @@ All dimension tables connect to the fact table via one-to-many relationships, wh
 ## Limitations
 
 The dataset is synthetic (generated for course purposes), so some variables (e.g. satisfaction ratings) show limited variance. The methodology and findings are nonetheless fully transferable to real-world HR data.
+
+## Screenshots
+
+**Overview**
+![Overview](screenshots/Overview.jpg)
+
+**Demographic**
+![Demographic](screenshots/Demographic.jpg)
+
+**Performance Tracker**
+![Performance Tracker](screenshots/Performance_Tracker.jpg)
+
+**Attrition**
+![Attrition](screenshots/Attrition.jpg)
+
+**Employee Risk Analysis**
+![Employee Risk Analysis](screenshots/Employee_Risk_Analysis.jpg)
+
